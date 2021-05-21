@@ -3,3 +3,5 @@ config:
   name: "我是新增的名字。"
   testStr: "新增测试字符串"
   testStr1: "新增测试字符串"
+  testStr2: "新增测试字符串"
+  testStr3: "新增测试字符串"
