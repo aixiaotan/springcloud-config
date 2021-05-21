@@ -5,3 +5,4 @@ config:
   testStr1: "新增测试字符串"
   testStr2: "新增测试字符串"
   testStr3: "新增测试字符串"
+  testStr4: "新增测试字符串"
