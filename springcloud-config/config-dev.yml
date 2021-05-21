@@ -2,3 +2,4 @@ config:
   info: "master branch,springcloud-config/config-dev.yml version=7"
   name: "我是新增的名字。"
   testStr: "新增测试字符串"
+  testStr1: "新增测试字符串"
