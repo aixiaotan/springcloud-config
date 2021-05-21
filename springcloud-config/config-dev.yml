@@ -1,5 +1,5 @@
 config:
-  info: "大家注意啦，我是master branch,springcloud-config/config-dev.yml   version=8 "
+  info: "大家注意啦，我是master branch,springcloud-config/config-dev.yml   version=8 ，我的这次改动只通知3377机器"
   name: "我是新增的名字。"
   testStr: "新增测试字符串"
   testStr1: "新增测试字符串"
